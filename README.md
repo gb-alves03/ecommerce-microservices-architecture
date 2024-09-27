@@ -1,5 +1,5 @@
 # E-commerce Microservices Architecture
-E-commerce Back-end application based in Microservices and Events-Driven Architectures with Java, Spring and AWS.
+E-commerce Back-end project based in Events-Driven and Microservices Architectures with Java, Spring, AWS SNS, AWS SQS, PostgreSQL, MongoDB and Docker.
 
 ## Used Technologies
 [![Used Technologies](https://skillicons.dev/icons?i=java,spring,maven,docker,postgres,mongodb,aws)](https://skillicons.dev)
