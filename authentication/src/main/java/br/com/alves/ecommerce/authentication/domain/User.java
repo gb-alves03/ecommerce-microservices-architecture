@@ -1,5 +1,6 @@
 package br.com.alves.ecommerce.authentication.domain;
 
+import br.com.alves.ecommerce.authentication.domain.util.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

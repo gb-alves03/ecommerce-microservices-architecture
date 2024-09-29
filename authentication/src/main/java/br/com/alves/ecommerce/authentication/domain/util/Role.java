@@ -1,4 +1,4 @@
-package br.com.alves.ecommerce.authentication.domain;
+package br.com.alves.ecommerce.authentication.domain.util;
 
 import br.com.alves.ecommerce.authentication.enums.RoleName;
 import jakarta.persistence.*;

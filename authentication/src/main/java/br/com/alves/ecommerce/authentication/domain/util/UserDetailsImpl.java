@@ -1,5 +1,6 @@
-package br.com.alves.ecommerce.authentication.domain;
+package br.com.alves.ecommerce.authentication.domain.util;
 
+import br.com.alves.ecommerce.authentication.domain.User;
 import lombok.Getter;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

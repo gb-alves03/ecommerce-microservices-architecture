@@ -1,7 +1,7 @@
 package br.com.alves.ecommerce.authentication.service;
 
 import br.com.alves.ecommerce.authentication.domain.User;
-import br.com.alves.ecommerce.authentication.domain.UserDetailsImpl;
+import br.com.alves.ecommerce.authentication.domain.util.UserDetailsImpl;
 import br.com.alves.ecommerce.authentication.repository.IUserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
